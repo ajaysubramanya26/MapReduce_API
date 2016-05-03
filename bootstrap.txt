@@ -1,0 +1,7 @@
+image = ami-08111162
+instance = m3.xlarge
+keyName = mapreduce_Swapnil 
+secGroup = sg-5eddf726 
+monitoring = true
+iamRole = s3_full_access
+region = us-east-1
