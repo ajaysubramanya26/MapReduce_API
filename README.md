@@ -32,12 +32,12 @@ of setting by class the PASS-API’s classes are set by class names as strings.
 * The users mapper should extend the PASS API Mapper and Reducer classes and 
 use the PASS API defined generic data types.
 
-| PASS API      | Hadoop MapReduce API          |
-| ------------- |:-------------:| 
-| CustomInteger | IntWritable   | 
-| CustomString  | Text          |
-| CustomLong    | LongWritable  |
-| CustomDouble  | DoubleWritable|
+	| PASS API      | Hadoop MapReduce API          |
+	| ------------- |:-------------:| 
+	| CustomInteger | IntWritable   | 
+	| CustomString  | Text          |
+	| CustomLong    | LongWritable  |
+	| CustomDouble  | DoubleWritable|
 
 * Use the PASS API’s MapperContext, ReducerContext instead of Context object 
 from Hadoop MapReduce API for mapper and reduce respectively.
