@@ -89,7 +89,7 @@ Master & Slave machines
 
 ### Activity Diagram/Workflow
 
-<Insert diagram here>
+![Doh Image didn't load](https://github.com/ajaysubramanya26/MapReduce_API/blob/master/markdown_images/ActivityDiagram.png "Activity Diagram") 
 
 ## Building Blocks
 
