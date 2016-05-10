@@ -85,11 +85,15 @@ Local Machine/Any Machine: To run user jar on local(pseudo setup mode)
 or ec2(cloud mode where provisioning setup is provided) S3: shared FS
 Master & Slave machines
 
-<Insert diagram here>
+
+
+![Doh System Design daigram didn't load](https://github.com/ajaysubramanya26/MapReduce_API/blob/master/markdown_images/SystemDesign.png "System Design") 
 
 ### Activity Diagram/Workflow
 
-![Doh Image didn't load](https://github.com/ajaysubramanya26/MapReduce_API/blob/master/markdown_images/ActivityDiagram.png "Activity Diagram") 
+
+
+![Doh Activity diagram didn't load](https://github.com/ajaysubramanya26/MapReduce_API/blob/master/markdown_images/ActivityDiagram.png "Activity Diagram") 
 
 ## Building Blocks
 
